@@ -1,9 +1,9 @@
-#Agile Teams and Different Models Used 
+# Agile Teams and Different Models Used 
 
 Agile vs. Plan-and-Document Lifecycles: A Comparative Analysis
 In the ever-evolving world of software development, choosing the right lifecycle model can significantly impact a project's success. Two prominent approaches are Agile and Plan-and-Document (often associated with the Waterfall model). Let's explore their key differences:
 
-Agile Lifecycle:
+### Agile Lifecycle:
 
 Philosophy: Embraces change, values individuals and interactions over processes and tools, and prioritizes working software over comprehensive documentation.
 Team Structure: Self-organizing teams with cross-functional members collaborate closely.
@@ -17,7 +17,8 @@ Weaknesses: Requires high team collaboration, potential for scope creep.
 Best Suited For: Projects with evolving requirements, where flexibility and rapid delivery are prioritized.
 Plan-and-Document Lifecycle:
 
-Philosophy: Emphasizes thorough planning and documentation upfront, with a linear, sequential progression through phases.
+#### Philosophy: 
+Emphasizes thorough planning and documentation upfront, with a linear, sequential progression through phases.
 Team Structure: Hierarchical, with a project manager leading and coordinating efforts.
 Roles:
 Project Manager: Oversees the project, manages resources, and communicates with stakeholders.
@@ -28,7 +29,8 @@ Weaknesses: Less adaptable to changes, longer development cycles, potential for 
 Best Suited For: Projects with stable requirements and a well-defined scope, where predictability is crucial.
 Collaborative Practices in Both Lifecycles:
 
-Pair Programming: Two developers work together on the same code, increasing communication and improving code quality through real-time review and collaboration.
+#### Pair Programming: 
+Two developers work together on the same code, increasing communication and improving code quality through real-time review and collaboration.
 Code Reviews: Formal or informal processes where developers review each other's code to catch errors, ensure adherence to standards, and share knowledge.
 Version Control: Systems like Git track changes to code, allowing for collaboration, experimentation, and easy rollback to previous versions if needed.
 Choosing the Right Approach:
